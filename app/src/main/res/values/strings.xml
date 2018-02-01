@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Verdadero_Falso</string>
+    <string name="pboton1">Empezar la Trivia</string>
+    <string name="textop1">Pregunta #1</string>
+    <string name="pregunta1">La luna es el satélite de la Tierra?</string>
+    <string name="textop2">Pregunta #2</string>
+    <string name="pregunta2">La Tierra es el tercer planeta mas cercano al SOL?</string>
+    <string name="textop3">Pregunta #3</string>
+    <string name="pregunta3">Fue Neil Armstrong el primer hombre en la Luna?</string>
+    <string name="textop4">Pregunta #4</string>
+    <string name="pregunta4">El primer anumal en viajar al espacio fue un perro?</string>
+
+</resources>
